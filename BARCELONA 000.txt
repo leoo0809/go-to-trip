@@ -1,0 +1,292 @@
+
+BARCELONA:
+<html>
+<head>
+    <meta charset="utf-8">
+    <title> Barcelona </title>
+    <style></style>
+</head>
+<body text="black" link="black"
+    alink="black" vlink="black">
+    <link rel="stylesheet" href="estilo.css">
+<!-------------inicio----------------->
+<h1 align="center">Barcelona</h1>
+<div id="site">
+<div id="topo">
+    <img src="imagens Barcelona/entrada.Barcelona.jpg" > </div>
+
+<div id="menu"><!--------Menu--------------->
+
+    <a href="01-04.html">Home </a> &nbsp; &nbsp; | &nbsp; &nbsp;
+    <a href="BARCELONA.html">Barcelona</a> &nbsp; &nbsp; | &nbsp; &nbsp;
+    <a href="BUENOSAIRES.html">Buenos Aires</a>  &nbsp; &nbsp; | &nbsp; &nbsp;
+    <a href="LONDRES.html">Londres</a> &nbsp; &nbsp; | &nbsp; &nbsp;
+    <a href="NEWYORK.html">New York</a> &nbsp; &nbsp; | &nbsp; &nbsp;<a href="paris.html">Paris</a>
+</div>
+<div id="conteúdo">
+<!-------------incio----------------->
+<h3 align="center">HISTÓRIA</h3>
+<p align="justify">
+<font size="3" color="black" face="arial">
+A cidade de Barcelona tem uma história que remonta a mais de dois mil anos. Fundada pelos romanos no século I a.C. sob o nome de Barcino, foi uma colônia estrategicamente posicionada na costa do Mediterrâneo. As ruínas dessa época ainda podem ser vistas hoje no Bairro Gótico, onde se preservam partes das antigas muralhas e do traçado urbano romano.<br>
+<p align="justify">
+Antes da chegada dos romanos, a região já era habitada por povos íberos, e há uma lenda que associa a fundação da cidade ao general cartaginês Aníbal Barca, embora isso não seja confirmado historicamente.<br>
+<p align="justify">
+Durante a Idade Média, após o colapso do Império Romano, Barcelona passou pelo domínio dos visigodos e, brevemente, dos muçulmanos, até ser conquistada por Carlos Magno em 801. A cidade se tornou então o centro do Condado de Barcelona, que mais tarde se uniria ao Reino de Aragão, formando uma das coroas mais poderosas do Mediterrâneo. No século XIII, Barcelona era uma metrópole comercial florescente e um centro cultural de grande prestígio.<br>
+<p align="justify">
+No entanto, o século XIV trouxe grandes dificuldades. A peste negra em 1348 dizimou a população, e uma série de conflitos internos e crises econômicas enfraqueceram a cidade. Mais tarde, durante a Guerra de Sucessão Espanhola (1701–1714), Barcelona apoiou o arquiduque Carlos de Áustria contra Felipe V de Bourbon. Com a derrota, a cidade perdeu sua autonomia política, e as instituições catalãs foram suprimidas. O dia 11 de setembro de 1714, quando Barcelona caiu, é hoje lembrado como a Diada Nacional de Catalunya.<br>
+<p align="justify">
+No século XIX, com a Revolução Industrial, Barcelona passou por um forte crescimento urbano e econômico, acompanhado de um renascimento cultural conhecido como Renaixença, que reafirmou a língua e a identidade catalã. Nesse período, também se destacou o modernismo catalão, com nomes como Antoni Gaudí, que deixou sua marca em obras icônicas como a Sagrada Família, o Parque Güell e a Casa Batlló.<br>
+<p align="justify">
+Durante o século XX, Barcelona enfrentou o impacto da Guerra Civil Espanhola (1936–1939) e da repressão cultural imposta pela ditadura de Franco. Após a redemocratização da Espanha, a cidade voltou a florescer e ganhou destaque internacional ao sediar os Jogos Olímpicos de 1992, evento que transformou sua infraestrutura e projetou Barcelona como uma das cidades mais vibrantes da Europa.<br>
+<p align="justify">
+Hoje, Barcelona é reconhecida mundialmente por sua arquitetura única, sua cena cultural efervescente e o forte sentimento de identidade catalã, que continua a marcar a história e o cotidiano da cidade.<br>
+</font>
+</p>
+<!-------------linha----------------->
+<hr size="4" width="90%" align="center" color="SlateGray">
+<!--------TITULO 2-------->
+<h3 align="center">PONTOS TURÍSTICOS 📌</h3>
+<h4><table align="center" border="1" bgcolor="SlateGray" cellspacing="10px">
+    <tr>
+        <td><img src="imagens Barcelona/templo.jpg" width="250px" height="250px"></td>
+        <td><img src="imagens Barcelona/parc-guell-barcelona (1).jpg" width="250px" height="250px"></td>
+        <td><img src="imagens Barcelona/pontos-turísticos-de-barcelona.jpg" width="250px" height="250px"></td>
+    </tr>
+    <td align="center">Templo Expiatório da Sagrada Família</td>
+    <td align="center">Parque Güell</td>
+    <td align="center">Casa Batlló</td>
+</table></h4>
+<!-------------linha----------------->
+<hr size="4" width="90%" align="center" color="SlateGray">
+<!--------TITULO 3-------->
+<h3 align="center">Onde ficar em Barcelona? 🏨</h3>
+<font size="3" color="black" face="arial">
+    <p align="justify">
+    Encontrar o lugar ideal para se hospedar em Barcelona pode ser uma tarefa tão empolgante quanto desafiadora. A cidade, conhecida por sua vibrante vida cultural, arquitetura icônica e praias ensolaradas, oferece uma ampla variedade de acomodações para todos os gostos e orçamentos.<br>
+    Desde hotéis de luxo no charmoso bairro do Eixample até hostels descolados no coração do Bairro Gótico, ou apartamentos aconchegantes próximos à Sagrada Família, as opções são muitas.
+    <br>Nesta busca, é importante considerar não apenas o preço, mas também a localização, o acesso ao transporte público e o tipo de experiência que você deseja viver na capital catalã.
+</font></p>
+<!-------------- Listas Não Ordenadas  -------->
+<h6><ul>
+    <li>Sercotel Hotel Rosellon</li>
+    <li>Hotel Indigo Barcelona Plaza Espana</li>
+    <li>Barceló Sants</li>
+    <li>Gaudi Hotel</li>
+</ul></h6>
+    <!--------tabela 2-------->
+        <h4><table align="center" border="2" bgcolor="SlateGray" cellspacing="10px">
+            <tr>
+                <td><img src="imagens Barcelona/hotel.barcelo1.jpg" width="250px" height="250px"><p align="justify"></td>
+                <td><img src="imagens Barcelona/hotel.02jpg.jfif" width="250px" height="250px"></td>
+                <td><img src="imagens Barcelona/hotel3.jpg" width="250px" height="250px"></td>
+                <td><img src="imagens Barcelona/hotel4.jpg" width="250px" height="250px"></td>
+            </tr>
+            <td align="center"><a href="https://www.booking.com/hotel/es/ayre-rosellon.pt-br.html?label=msn-*Z6UFx5UIPuD8w2PJyO7TQ-80745576003755%3Atikwd-80745762138399%3Aloc-20%3Aneo%3Amte%3Alp147593%3Adec%3Aqshot%C3%A9is+em+barcelona&utm_source=bing&utm_medium=cpc&utm_term=*Z6UFx5UIPuD8w2PJyO7TQ&utm_content=Barcelona+-+UFI%3A-372490&utm_campaign=Spain&aid=339462">Sercotel Hotel Rosellon</a></td>
+            <td align="center"><a href="https://www.booking.com/hotel/es/hotel-indigo-barcelona-granvia-plaza-espana.pt-br.html?label=msn-*Z6UFx5UIPuD8w2PJyO7TQ-80745576003755%3Atikwd-80745762138399%3Aloc-20%3Aneo%3Amte%3Alp147593%3Adec%3Aqshot%C3%A9is+em+barcelona&utm_source=bing&utm_medium=cpc&utm_term=*Z6UFx5UIPuD8w2PJyO7TQ&utm_content=Barcelona+-+UFI%3A-372490&utm_campaign=Spain&aid=339462">Hotel Indigo Barcelona Plaza Espana</a></td>
+            <td align="center"><a href="https://www.booking.com/searchresults.pt-br.html?label=msn-*Z6UFx5UIPuD8w2PJyO7TQ-80745576003755%3Atikwd-80745762138399%3Aloc-20%3Aneo%3Amte%3Alp147593%3Adec%3Aqshot%C3%A9is+em+barcelona&utm_source=bing&utm_medium=cpc&utm_term=*Z6UFx5UIPuD8w2PJyO7TQ&utm_content=Barcelona+-+UFI%3A-372490&utm_campaign=Spain&aid=339462&highlighted_hotels=92634&city=-372490">Barceló Sants</a></td>
+            <td align="center"><a href="https://www.booking.com/hotel/es/gaudi-barcelona.pt-br.html?label=msn-*Z6UFx5UIPuD8w2PJyO7TQ-80745576003755%3Atikwd-80745762138399%3Aloc-20%3Aneo%3Amte%3Alp147593%3Adec%3Aqshot%C3%A9is+em+barcelona&utm_source=bing&utm_medium=cpc&utm_term=*Z6UFx5UIPuD8w2PJyO7TQ&utm_content=Barcelona+-+UFI%3A-372490&utm_campaign=Spain&aid=339462">Gaudi Hotel</a></td>
+        </table></h4>
+<!--------TITULO 4-------->
+<h3 align="center">Onde comer em Barcelona? 🍖</h3>
+<!-------------linha----------------->
+<hr size="3" width="90%" align="center" color="SlateGray">
+<font size="3" color="black" face="arial">
+    Descobrir onde comer em Barcelona é uma verdadeira aventura gastronômica. A cidade é um paraíso para os amantes da boa comida, oferecendo desde tradicionais tapas e pratos típicos catalães até experiências contemporâneas em restaurantes estrelados.<br>
+    Passeando pelas ruas movimentadas de bairros como El Born, Eixample ou Gràcia, é fácil se deparar com uma variedade de opções que agradam a todos os paladares e bolsos. Seja para saborear uma autêntica paella, se deliciar com frutos do mar frescos ou explorar a fusão de sabores internacionais, encontrar o restaurante perfeito faz parte da magia de conhecer Barcelona.
+</font>
+<!-------------- Listas Não Ordenadas  -------->
+<h6>
+<ul>
+    <li>Bodega Biarritz</li>
+    <li>Jay's Japanese</li>
+    <li>Braseria La Selva Corcega Barcelona</li>
+    <li>Soma Restaurant</li>
+</ul>
+</h6>
+<!--------tabela 3-------->
+<h4>
+<table align="center" border="2" bgcolor="SlateGray" cellspacing="10px">
+    <tr>
+        <td><img src="bodega.jpg" width="250px" height="250px"></td>
+        <td><img src="jays.jpg" width="250px" height="250px"></td>
+        <td><img src="braseria.jpg" width="250px" height="250px"></td>
+        <td><img src="soma.jpg" width="250px" height="250px"></td>
+    </tr>
+    <td align="center"><a href="https://www.tripadvisor.com.br/Restaurant_Review-g187497-d11906544-Reviews-Bodega_Biarritz-Barcelona_Catalonia.html">Bodega Biarritz</a></td>
+    <td align="center"><a href="https://www.tripadvisor.com.br/Restaurant_Review-g187497-d24006960-Reviews-Jay_s_Japanese-Barcelona_Catalonia.html">Jay's Japanese</a></td>
+    <td align="center"><a href="https://www.tripadvisor.com.br/Restaurant_Review-g187497-d23765322-Reviews-Braseria_La_Selva_Corcega_Barcelona-Barcelona_Catalonia.html">Braseria La Selva Corcega Barcelona</a></td>
+    <td align="center"><a href="https://www.tripadvisor.com.br/Restaurant_Review-g187497-d23809724-Reviews-Soma_Restaurant-Barcelona_Catalonia.html">Soma Restaurant</a></td>
+</table>
+<!-------------linha----------------->
+<hr size="3" width="90%" align="center" color="SlateGray">
+</h4>
+<h3 align="center">ALUGUEL DE CARROS 🚙</h3>
+<font size="3" color="black" face="arial" align="justify">
+Para quem deseja explorar Barcelona além dos pontos turísticos mais tradicionais, alugar um carro pode ser uma ótima escolha. Embora a cidade ofereça um excelente sistema de transporte público, ter um carro à disposição garante mais liberdade para montar seu próprio roteiro e visitar lugares incríveis nos arredores, como as praias da Costa Brava, as vinícolas do Penedès ou o impressionante mosteiro de Montserrat.<br>
+<p>
+Barcelona conta com várias agências de aluguel de veículos, localizadas tanto no aeroporto quanto em diferentes pontos da cidade, oferecendo opções que vão de modelos econômicos a SUVs e carros de luxo. Antes de pegar a estrada, vale lembrar que o centro da cidade possui zonas de baixa emissão (ZBE) com restrições para alguns veículos, além de áreas com estacionamento limitado. Por isso, planejar bem o trajeto e escolher acomodações com garagem pode facilitar bastante a experiência.<br>
+<p>
+Aqui alguns sites que você pode alugar:
+</font>
+<h6><ul>
+    <li><a href="https://www.sixt.com.br/?uci=7277&rci=7277&sxamc=Google%7CSearch&fir=1&gad_source=1&gclid=CjwKCAjwktO_BhBrEiwAV70jXsVWjJO9NXjM-LfbsCVXWJb1ne2HKTS8wF88LTSn_ZoUdbgiARWw3RoCAuAQAvD_BwE">SIXT</a></li>
+    <li><a href="https://www.booking.com/cars/airport/es/bcn.br.html?aid=1768990&affiliateCode=booking-cars&adplat=booking-google&label=bcn:md7gj03Yyy9C10rjzHYS3EYA:tyS:cr651118993171:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-359481221231:lp9198664:li:dec:dm:ws:gclidCjwKCAjwktO_BhBrEiwAV70jXtZSbEqmJCMvEwCSMlAwlOauxmqbiDEf0OiVDb87N6u_LUgsRi6HQxoCJaMQAvD_BwE&gad_source=1&gclid=CjwKCAjwktO_BhBrEiwAV70jXtZSbEqmJCMvEwCSMlAwlOauxmqbiDEf0OiVDb87N6u_LUgsRi6HQxoCJaMQAvD_BwE">Booking.com</a></li>
+    <li><a href="https://www.rentcars.com/pt-br/aeroportos/espanha/bcn-el-prat-barcelona-catalunya?cq_src=google_ads&cq_cmp=22342776651&cq_con=178034734713&cq_term=rent%20car%20bcn&cq_med=&cq_plac=&cq_net=g&cq_pos=&cq_plt=gp&gad_source=1&gclid=CjwKCAjwktO_BhBrEiwAV70jXvhuPjuAwC0LS6bGpZOpUd67fSaD7f3NmiOyyOeKy9mTzCsFfIajjBoCTIAQAvD_BwE">rentcars</a></li>
+    <li><a href="https://www.kayak.com.br/aluguel-de-carros-Barcelona.22567.cars.ksp">KAYAK</a></li>
+</ul></h6>
+<!-------------linha----------------->
+<hr size="3" width="90%" align="center" color="SlateGray">
+</div>
+<div id="rodapé">
+    Todos direitos reservados para Leonardo Waschburger - 2025
+</div>
+</body>
+</html>
+
+BUENOS AIRES:
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title> Buenos Aires </title>
+    <style></style>
+</head>
+<body text="black" link="black"
+    alink="black" vlink="black">
+    <link rel="stylesheet" href="estilo.css">
+<!-------------inicio----------------->
+<h1 align="center">Barcelona</h1>
+<div id="site">
+<div id="topo">
+    <img src="entrada.buenosaires.jpg" > </div>
+
+<div id="menu"><!--------Menu--------------->
+
+    <a href="01-04.html">Home </a> &nbsp; &nbsp; | &nbsp; &nbsp;
+    <a href="BARCELONA.html">Barcelona</a> &nbsp; &nbsp; | &nbsp; &nbsp;
+    <a href="BUENOSAIRES.html">Buenos Aires</a>  &nbsp; &nbsp; | &nbsp; &nbsp;
+    <a href="LONDRES.html">Londres</a> &nbsp; &nbsp; | &nbsp; &nbsp;
+    <a href="NEWYORK.html">New York</a> &nbsp; &nbsp; | &nbsp; &nbsp;<a href="paris.html">Paris</a>
+</div>
+<div id="conteúdo">
+<!-------------incio----------------->
+<h3 align="center">HISTÓRIA</h3>
+<p align="justify">
+<font size="3" color="black" face="arial">
+A cidade de Barcelona tem uma história que remonta a mais de dois mil anos. Fundada pelos romanos no século I a.C. sob o nome de Barcino, foi uma colônia estrategicamente posicionada na costa do Mediterrâneo. As ruínas dessa época ainda podem ser vistas hoje no Bairro Gótico, onde se preservam partes das antigas muralhas e do traçado urbano romano.<br>
+<p align="justify">
+Antes da chegada dos romanos, a região já era habitada por povos íberos, e há uma lenda que associa a fundação da cidade ao general cartaginês Aníbal Barca, embora isso não seja confirmado historicamente.<br>
+<p align="justify">
+Durante a Idade Média, após o colapso do Império Romano, Barcelona passou pelo domínio dos visigodos e, brevemente, dos muçulmanos, até ser conquistada por Carlos Magno em 801. A cidade se tornou então o centro do Condado de Barcelona, que mais tarde se uniria ao Reino de Aragão, formando uma das coroas mais poderosas do Mediterrâneo. No século XIII, Barcelona era uma metrópole comercial florescente e um centro cultural de grande prestígio.<br>
+<p align="justify">
+No entanto, o século XIV trouxe grandes dificuldades. A peste negra em 1348 dizimou a população, e uma série de conflitos internos e crises econômicas enfraqueceram a cidade. Mais tarde, durante a Guerra de Sucessão Espanhola (1701–1714), Barcelona apoiou o arquiduque Carlos de Áustria contra Felipe V de Bourbon. Com a derrota, a cidade perdeu sua autonomia política, e as instituições catalãs foram suprimidas. O dia 11 de setembro de 1714, quando Barcelona caiu, é hoje lembrado como a Diada Nacional de Catalunya.<br>
+<p align="justify">
+No século XIX, com a Revolução Industrial, Barcelona passou por um forte crescimento urbano e econômico, acompanhado de um renascimento cultural conhecido como Renaixença, que reafirmou a língua e a identidade catalã. Nesse período, também se destacou o modernismo catalão, com nomes como Antoni Gaudí, que deixou sua marca em obras icônicas como a Sagrada Família, o Parque Güell e a Casa Batlló.<br>
+<p align="justify">
+Durante o século XX, Barcelona enfrentou o impacto da Guerra Civil Espanhola (1936–1939) e da repressão cultural imposta pela ditadura de Franco. Após a redemocratização da Espanha, a cidade voltou a florescer e ganhou destaque internacional ao sediar os Jogos Olímpicos de 1992, evento que transformou sua infraestrutura e projetou Barcelona como uma das cidades mais vibrantes da Europa.<br>
+<p align="justify">
+Hoje, Barcelona é reconhecida mundialmente por sua arquitetura única, sua cena cultural efervescente e o forte sentimento de identidade catalã, que continua a marcar a história e o cotidiano da cidade.<br>
+</font>
+</p>
+<!-------------linha----------------->
+<hr size="4" width="90%" align="center" color="SlateGray">
+<!--------TITULO 2-------->
+<h3 align="center">PONTOS TURÍSTICOS 📌</h3>
+<h4><table align="center" border="1" bgcolor="SlateGray" cellspacing="10px">
+    <tr>
+        <td><img src="templo.jpg" width="250px" height="250px"></td>
+        <td><img src="parc-guell-barcelona (1).jpg" width="250px" height="250px"></td>
+        <td><img src="pontos-turísticos-de-barcelona.jpg" width="250px" height="250px"></td>
+    </tr>
+    <td align="center">Templo Expiatório da Sagrada Família</td>
+    <td align="center">Parque Güell</td>
+    <td align="center">Casa Batlló</td>
+</table></h4>
+<!-------------linha----------------->
+<hr size="4" width="90%" align="center" color="SlateGray">
+<!--------TITULO 3-------->
+<h3 align="center">Onde ficar em Barcelona? 🏨</h3>
+<font size="3" color="black" face="arial">
+    <p align="justify">
+    Encontrar o lugar ideal para se hospedar em Barcelona pode ser uma tarefa tão empolgante quanto desafiadora. A cidade, conhecida por sua vibrante vida cultural, arquitetura icônica e praias ensolaradas, oferece uma ampla variedade de acomodações para todos os gostos e orçamentos.<br>
+    Desde hotéis de luxo no charmoso bairro do Eixample até hostels descolados no coração do Bairro Gótico, ou apartamentos aconchegantes próximos à Sagrada Família, as opções são muitas.
+    <br>Nesta busca, é importante considerar não apenas o preço, mas também a localização, o acesso ao transporte público e o tipo de experiência que você deseja viver na capital catalã.
+</font></p>
+<!-------------- Listas Não Ordenadas  -------->
+<h6><ul>
+    <li>Sercotel Hotel Rosellon</li>
+    <li>Hotel Indigo Barcelona Plaza Espana</li>
+    <li>Barceló Sants</li>
+    <li>Gaudi Hotel</li>
+</ul></h6>
+    <!--------tabela 2-------->
+        <h4><table align="center" border="2" bgcolor="SlateGray" cellspacing="10px">
+            <tr>
+                <td><img src="serco.webp" width="250px" height="250px"><p align="justify"></td>
+                <td><img src="indigo.webp" width="250px" height="250px"></td>
+                <td><img src="barce.webp" width="250px" height="250px"></td>
+                <td><img src="gaudi.webp" width="250px" height="250px"></td>
+            </tr>
+            <td align="center"><a href="https://www.booking.com/hotel/es/ayre-rosellon.pt-br.html?label=msn-*Z6UFx5UIPuD8w2PJyO7TQ-80745576003755%3Atikwd-80745762138399%3Aloc-20%3Aneo%3Amte%3Alp147593%3Adec%3Aqshot%C3%A9is+em+barcelona&utm_source=bing&utm_medium=cpc&utm_term=*Z6UFx5UIPuD8w2PJyO7TQ&utm_content=Barcelona+-+UFI%3A-372490&utm_campaign=Spain&aid=339462">Sercotel Hotel Rosellon</a></td>
+            <td align="center"><a href="https://www.booking.com/hotel/es/hotel-indigo-barcelona-granvia-plaza-espana.pt-br.html?label=msn-*Z6UFx5UIPuD8w2PJyO7TQ-80745576003755%3Atikwd-80745762138399%3Aloc-20%3Aneo%3Amte%3Alp147593%3Adec%3Aqshot%C3%A9is+em+barcelona&utm_source=bing&utm_medium=cpc&utm_term=*Z6UFx5UIPuD8w2PJyO7TQ&utm_content=Barcelona+-+UFI%3A-372490&utm_campaign=Spain&aid=339462">Hotel Indigo Barcelona Plaza Espana</a></td>
+            <td align="center"><a href="https://www.booking.com/searchresults.pt-br.html?label=msn-*Z6UFx5UIPuD8w2PJyO7TQ-80745576003755%3Atikwd-80745762138399%3Aloc-20%3Aneo%3Amte%3Alp147593%3Adec%3Aqshot%C3%A9is+em+barcelona&utm_source=bing&utm_medium=cpc&utm_term=*Z6UFx5UIPuD8w2PJyO7TQ&utm_content=Barcelona+-+UFI%3A-372490&utm_campaign=Spain&aid=339462&highlighted_hotels=92634&city=-372490">Barceló Sants</a></td>
+            <td align="center"><a href="https://www.booking.com/hotel/es/gaudi-barcelona.pt-br.html?label=msn-*Z6UFx5UIPuD8w2PJyO7TQ-80745576003755%3Atikwd-80745762138399%3Aloc-20%3Aneo%3Amte%3Alp147593%3Adec%3Aqshot%C3%A9is+em+barcelona&utm_source=bing&utm_medium=cpc&utm_term=*Z6UFx5UIPuD8w2PJyO7TQ&utm_content=Barcelona+-+UFI%3A-372490&utm_campaign=Spain&aid=339462">Gaudi Hotel</a></td>
+        </table></h4>
+<!--------TITULO 4-------->
+<h3 align="center">Onde comer em Barcelona? 🍖</h3>
+<!-------------linha----------------->
+<hr size="3" width="90%" align="center" color="SlateGray">
+<font size="3" color="black" face="arial">
+    Descobrir onde comer em Barcelona é uma verdadeira aventura gastronômica. A cidade é um paraíso para os amantes da boa comida, oferecendo desde tradicionais tapas e pratos típicos catalães até experiências contemporâneas em restaurantes estrelados.<br>
+    Passeando pelas ruas movimentadas de bairros como El Born, Eixample ou Gràcia, é fácil se deparar com uma variedade de opções que agradam a todos os paladares e bolsos. Seja para saborear uma autêntica paella, se deliciar com frutos do mar frescos ou explorar a fusão de sabores internacionais, encontrar o restaurante perfeito faz parte da magia de conhecer Barcelona.
+</font>
+<!-------------- Listas Não Ordenadas  -------->
+<h6>
+<ul>
+    <li>Bodega Biarritz</li>
+    <li>Jay's Japanese</li>
+    <li>Braseria La Selva Corcega Barcelona</li>
+    <li>Soma Restaurant</li>
+</ul>
+</h6>
+<!--------tabela 3-------->
+<h4>
+<table align="center" border="2" bgcolor="SlateGray" cellspacing="10px">
+    <tr>
+        <td><img src="bodega.jpg" width="250px" height="250px"></td>
+        <td><img src="jays.jpg" width="250px" height="250px"></td>
+        <td><img src="braseria.jpg" width="250px" height="250px"></td>
+        <td><img src="soma.jpg" width="250px" height="250px"></td>
+    </tr>
+    <td align="center"><a href="https://www.tripadvisor.com.br/Restaurant_Review-g187497-d11906544-Reviews-Bodega_Biarritz-Barcelona_Catalonia.html">Bodega Biarritz</a></td>
+    <td align="center"><a href="https://www.tripadvisor.com.br/Restaurant_Review-g187497-d24006960-Reviews-Jay_s_Japanese-Barcelona_Catalonia.html">Jay's Japanese</a></td>
+    <td align="center"><a href="https://www.tripadvisor.com.br/Restaurant_Review-g187497-d23765322-Reviews-Braseria_La_Selva_Corcega_Barcelona-Barcelona_Catalonia.html">Braseria La Selva Corcega Barcelona</a></td>
+    <td align="center"><a href="https://www.tripadvisor.com.br/Restaurant_Review-g187497-d23809724-Reviews-Soma_Restaurant-Barcelona_Catalonia.html">Soma Restaurant</a></td>
+</table>
+<!-------------linha----------------->
+<hr size="3" width="90%" align="center" color="SlateGray">
+</h4>
+<h3 align="center">ALUGUEL DE CARROS 🚙</h3>
+<font size="3" color="black" face="arial" align="justify">
+Para quem deseja explorar Barcelona além dos pontos turísticos mais tradicionais, alugar um carro pode ser uma ótima escolha. Embora a cidade ofereça um excelente sistema de transporte público, ter um carro à disposição garante mais liberdade para montar seu próprio roteiro e visitar lugares incríveis nos arredores, como as praias da Costa Brava, as vinícolas do Penedès ou o impressionante mosteiro de Montserrat.<br>
+<p>
+Barcelona conta com várias agências de aluguel de veículos, localizadas tanto no aeroporto quanto em diferentes pontos da cidade, oferecendo opções que vão de modelos econômicos a SUVs e carros de luxo. Antes de pegar a estrada, vale lembrar que o centro da cidade possui zonas de baixa emissão (ZBE) com restrições para alguns veículos, além de áreas com estacionamento limitado. Por isso, planejar bem o trajeto e escolher acomodações com garagem pode facilitar bastante a experiência.<br>
+<p>
+Aqui alguns sites que você pode alugar:
+</font>
+<h6><ul>
+    <li><a href="https://www.sixt.com.br/?uci=7277&rci=7277&sxamc=Google%7CSearch&fir=1&gad_source=1&gclid=CjwKCAjwktO_BhBrEiwAV70jXsVWjJO9NXjM-LfbsCVXWJb1ne2HKTS8wF88LTSn_ZoUdbgiARWw3RoCAuAQAvD_BwE">SIXT</a></li>
+    <li><a href="https://www.booking.com/cars/airport/es/bcn.br.html?aid=1768990&affiliateCode=booking-cars&adplat=booking-google&label=bcn:md7gj03Yyy9C10rjzHYS3EYA:tyS:cr651118993171:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-359481221231:lp9198664:li:dec:dm:ws:gclidCjwKCAjwktO_BhBrEiwAV70jXtZSbEqmJCMvEwCSMlAwlOauxmqbiDEf0OiVDb87N6u_LUgsRi6HQxoCJaMQAvD_BwE&gad_source=1&gclid=CjwKCAjwktO_BhBrEiwAV70jXtZSbEqmJCMvEwCSMlAwlOauxmqbiDEf0OiVDb87N6u_LUgsRi6HQxoCJaMQAvD_BwE">Booking.com</a></li>
+    <li><a href="https://www.rentcars.com/pt-br/aeroportos/espanha/bcn-el-prat-barcelona-catalunya?cq_src=google_ads&cq_cmp=22342776651&cq_con=178034734713&cq_term=rent%20car%20bcn&cq_med=&cq_plac=&cq_net=g&cq_pos=&cq_plt=gp&gad_source=1&gclid=CjwKCAjwktO_BhBrEiwAV70jXvhuPjuAwC0LS6bGpZOpUd67fSaD7f3NmiOyyOeKy9mTzCsFfIajjBoCTIAQAvD_BwE">rentcars</a></li>
+    <li><a href="https://www.kayak.com.br/aluguel-de-carros-Barcelona.22567.cars.ksp">KAYAK</a></li>
+</ul></h6>
+<!-------------linha----------------->
+<hr size="3" width="90%" align="center" color="SlateGray">
+</div>
+<div id="rodapé">
+    Todos direitos reservados para Leonardo Waschburger - 2025
+</div>
+</body>
+</html>
+ 
